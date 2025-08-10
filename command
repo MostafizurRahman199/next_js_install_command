@@ -1,1 +1,1 @@
-npx create-next-app@latest my-app --ts --eslint --tailwind --src-dir --app --import-alias "@/*" --use-npm --experimental-turbo
+npx create-next-app@latest my-app --ts  --tailwind --src-dir --app --no-eslint --import-alias "@/*" --use-npm --experimental-turbo
